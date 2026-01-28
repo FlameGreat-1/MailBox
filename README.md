@@ -1,4 +1,4 @@
-```markdown
+
 # Mailbox
 
 A terminal-based email client with Google Calendar integration. Connects to Gmail using OAuth 2.0 or App Password authentication.
