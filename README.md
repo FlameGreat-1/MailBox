@@ -42,5 +42,5 @@ A terminal-based email client and Google Calendar integration app that connects 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git https://github.com/FlameGreat-1/MailBox
 cd Mailbox
